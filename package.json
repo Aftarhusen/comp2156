@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\"",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build", 
+    "deploy": "gh-pages -d build" 
   },
   "homepage": "https://Aftarhusen.github.io/comp2156",
   "keywords": [],
